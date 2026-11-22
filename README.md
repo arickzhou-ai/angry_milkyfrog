@@ -1,6 +1,7 @@
 ﻿# angry_milkyfrog
 
 https://arickzhou-ai.github.io/angry_milkyfrog/
+
 這是一款以物理拋射為主的 2D 關卡遊戲，共有 1 到 5 關。玩家會在左側操作夥伴進行瞄準與發射，透過撞擊箱子與敵人、或讓敵人摔落地面來通關並解鎖下一關。
 
 遊戲玩法
